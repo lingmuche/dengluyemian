@@ -22,16 +22,19 @@
 
 .container{
   height: 100vh;
-  background-image: url('http://bmob-cdn-21691.b0.upaiyun.com/2018/10/05/36ec297540f588e780886aeca7cd2b8e.jpg');
+  background-image: url('http://bmob-cdn-21691.b0.upaiyun.com/2018/10/11/049a2c0540967be880d018e484310a21.jpg');
   background-repeat: round;
-  color: #5696b4;
+  color: #ffffff;
 }
 
 .test{
-  width: 150px;
-  height: 150px;
-  border-radius: 50px;
-  box-shadow: 4px 1px 1px #cccccc;
-  color: #45a9d8;
-  margin-top: 127px;
+  width: 300rpx;
+  height: 100rpx;
+  border-radius: 50rpx;
+  box-shadow: 4rpx 1rpx 1rpx #cccccc;
+  color: #ffffff;
+  margin-top: 100rpx;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
